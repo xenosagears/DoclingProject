@@ -1,0 +1,29 @@
+1) Basic 
+https://www.youtube.com/watch?v=EeMy1Qv9rPY&list=PLw5h0DiJ-9PDJ_3Weox2axZz6HNX3XhD8&index=10 
+- by Geek Avenue
+- Basics
+- Extract Metadata, iterate text, table, images, extract images, extract tables to csv/images, OCR for scanned docs.
+
+https://www.youtube.com/watch?v=9lBTS5dM27c&list=PLw5h0DiJ-9PDJ_3Weox2axZz6HNX3XhD8&index=3
+- this link teach you to scrape all the HTML and pages of a website
+
+2) Annotating or describing images
+https://www.youtube.com/watch?v=B5XD-qpL0FU&list=PLw5h0DiJ-9PDJ_3Weox2axZz6HNX3XhD8&index=7
+there is a pipeline_options where you can indicate which Visual language model you can use to annotate the images and also which OCR model to use for OCR
+- BONUS: teach about contextual chunking enrichment
+
+https://www.youtube.com/watch?v=Bpv53WoMxys&list=PL53fsMRdL7HVhFrtXM-cMAoHRB4OkqWVh&index=9
+- this one also using granite vison model to annotate
+
+3) RAG pipeline with docling
+
+https://www.youtube.com/watch?v=9lBTS5dM27c&list=PLw5h0DiJ-9PDJ_3Weox2axZz6HNX3XhD8&index=3 - this has citation and streamlit
+https://www.youtube.com/watch?v=Bpv53WoMxys&list=PL53fsMRdL7HVhFrtXM-cMAoHRB4OkqWVh&index=9
+
+4) Docling chunking strategies
+https://www.youtube.com/watch?v=9lBTS5dM27c&list=PLw5h0DiJ-9PDJ_3Weox2axZz6HNX3XhD8&index=3
+- teaches docling hierarchical and hybrid chunker
+
+
+CHunking strategies by databricks
+https://community.databricks.com/t5/technical-blog/the-ultimate-guide-to-chunking-strategies-for-rag-applications/ba-p/113089

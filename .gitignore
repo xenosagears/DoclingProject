@@ -1,1 +1,6 @@
 .venv/
+.vscode/
+pages/
+documents/
+images/
+tables/
